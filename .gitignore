@@ -61,6 +61,8 @@ venv
 # node
 node_modules
 
+test.js
+
 # if required
 # data/*
 # config/*
