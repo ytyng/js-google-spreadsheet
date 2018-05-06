@@ -7,6 +7,8 @@
 |  3 | cacao  | カカオ |
 
 
+    let spreadsheet = require('js-google-spreadsheet');
+
     let gs = new spreadsheet.GoogleSpreadSheet({
         apiKey: 'AIza....',
         sheetId: '1yd....',
@@ -29,3 +31,9 @@ Google API キーはここから作成
 https://console.developers.google.com/apis
 
 対象のスプレッドシートは、「リンクを知っている全員が閲覧可」とする。
+
+
+## install
+
+    npm install js-google-spreadsheet
+
