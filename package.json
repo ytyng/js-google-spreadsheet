@@ -1,5 +1,6 @@
 {
   "name": "js-google-spreadsheet",
+  "version": "0.0.1",
   "main": "google-spreadsheet.js",
   "dependencies": {
     "node-fetch": "^2.1.2"
