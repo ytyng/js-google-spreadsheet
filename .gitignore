@@ -62,6 +62,7 @@ venv
 node_modules
 
 test.js
+npm-debug.log
 
 # if required
 # data/*

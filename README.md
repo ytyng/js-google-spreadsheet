@@ -1,10 +1,11 @@
 # js-google-spreadsheet
 
-| id | name   | value |
-| -- | ------ | ----- |
-|  1 | apple  | りんご |
-|  2 | banana | バナナ |
-|  3 | cacao  | カカオ |
+|   | A  | B      | C     |
+| - | -- | ------ | ----- |
+| 1 | id | name   | value |
+| 2 |  1 | apple  | りんご |
+| 3 |  2 | banana | バナナ |
+| 4 |  3 | cacao  | カカオ |
 
 
     let spreadsheet = require('js-google-spreadsheet');
